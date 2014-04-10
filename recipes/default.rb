@@ -1,1 +1,1 @@
-npm_package 'git@github.com:wanelo/node-manta-sync.git'
+npm_package 'git+https://github.com/wanelo/node-manta-sync.git'
